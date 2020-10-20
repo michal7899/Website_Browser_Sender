@@ -1,0 +1,5 @@
+# This code can choose between reddit and instagram,
+# and user can specify which one to use. 
+# Once selected, code opens website and user can choose which subreddit/hashtag to see
+# Then the program opens the what the user requested, and copies a link to the top post.
+# Then opens whatsapp web and sends it to a user-defined contact on user's phone
