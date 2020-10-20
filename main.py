@@ -18,3 +18,13 @@ else:
 
 searchElem = driver.find_element_by_id('header-search-bar')
 
+subreddit = input('Which subreddit would you like to see?')
+subreddit = str('r/' + subreddit)
+searchElem.send_keys(subreddit)
+searchElem.submit()
+
+subredditElem = drive
+
+
+
+
